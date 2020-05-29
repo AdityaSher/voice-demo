@@ -1,0 +1,13 @@
+{
+    "name": "voice_demo",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "@google-cloud/speech": "^3.6.0",
+        "express": "^4.17.1",
+        "formidable": "^1.2.2"
+    }
+}
